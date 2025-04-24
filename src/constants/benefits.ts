@@ -44,7 +44,7 @@ export const BENEFITS = [
     Icon: IconUserShield,
   },
   {
-    id: 5,
+    id: 6,
     title: "AI Image Analysis",
     description:
       "Our AI system analyzes the uploaded images to identify disaster type and severity, providing rapid situational awareness.",
