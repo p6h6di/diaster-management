@@ -39,6 +39,7 @@
     "@radix-ui/react-toggle": "^1.1.6",
     "@radix-ui/react-toggle-group": "^1.1.7",
     "@radix-ui/react-tooltip": "^1.2.3",
+    "@tabler/icons-react": "^3.31.0",
     "@types/mapbox-gl": "^3.4.1",
     "@types/mapbox__mapbox-gl-geocoder": "^5.0.0",
     "@types/react-scroll": "^1.8.10",
